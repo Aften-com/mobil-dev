@@ -39,6 +39,6 @@
 
 | Главный Экран   |  Неверный логин или пароль  | Успешная авторизация  |
 |---------------------|-----------------------|---------------------|
-| <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/5/home_pages_(2).jpg" width="300" />  | <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/5/home_pages_(3).jpg" width="300" /> |  <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/5/home_pages_(1).jpg" width="300" /> |
+| <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/home_pages_(2).jpg" width="300" />  | <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/home_pages_(3).jpg" width="300" /> |  <img src="https://github.com/Aften-com/mobil-dev/blob/main/src/home_pages_(1).jpg" width="300" /> |
 
 -----
